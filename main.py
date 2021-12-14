@@ -1,3 +1,5 @@
+from CircularBuffer import CircularBuffer
+
 def main():
 
     buf = CircullarBuffer(4)
