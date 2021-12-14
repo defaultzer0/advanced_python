@@ -2,7 +2,7 @@ from CircularBuffer import CircularBuffer
 
 def main():
 
-    buf = CircullarBuffer(4)
+    buf = CircularBuffer(4)
     
     print("push_front 1")
     buf.push_front(1)
