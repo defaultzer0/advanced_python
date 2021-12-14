@@ -1,4 +1,4 @@
-from CircularBuffer import CircularBuffer
+from CircularBuffer import *
 
 def main():
 
