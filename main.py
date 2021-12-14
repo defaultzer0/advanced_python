@@ -11,10 +11,11 @@ def main():
     buf.push_back(2)
     print("push_back 2")
     print(buf.buf)
+
     
     print("push_back 3")
     buf.push_front(3)
-    print(buf.buf)
+    printBuf(buf)
     
     print("push_back 4")
     buf.push_front(4)
